@@ -7,7 +7,8 @@
 </head>
 <body>
     <h1>Bienvenido a la pagina de Francisco
-        
+    <br><br><br><br>    
+    <a href="acerca_de.php">Ir a Acerca de...</a>
     </h1>
 </body>
 </html>
